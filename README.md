@@ -1,0 +1,1 @@
+The Odin Project's Etch-a-Sketch [Javascript and jQuery project](http://www.theodinproject.com/courses/web-development-101/lessons/javascript-and-jquery)
